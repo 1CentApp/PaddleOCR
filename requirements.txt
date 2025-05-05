@@ -1,3 +1,5 @@
+paddlepaddle
+paddleocr
 shapely
 scikit-image
 pyclipper
